@@ -3,7 +3,11 @@
  "domain": "agent_trace_observability",
  "version": "0.1.0",
  "questions": [
-  "category"
+  "action",
+  "needs_review",
+  "outcome",
+  "risk",
+  "urgency"
  ],
  "keywords": [
   "autonomy",
@@ -26,5 +30,6 @@
   "push",
   "branch",
   "exceed"
- ]
+ ],
+ "primary": "needs_review"
 }

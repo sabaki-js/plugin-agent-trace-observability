@@ -1,5 +1,5 @@
 /**
- * @sabaki-js/agent-trace-observability — sabaki plugin for the `agent_trace_observability` domain.
+ * @sabaki-js/agent-trace-observability - sabaki plugin for the `agent_trace_observability` domain.
  *
  * Bundled `nano` mode (TF-IDF weights, <1 ms, zero dependencies).
  * Ask another question with `input.question` (see `manifest.questions`).

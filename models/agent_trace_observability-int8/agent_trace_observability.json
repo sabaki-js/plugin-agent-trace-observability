@@ -1,0 +1,1 @@
+{"questions": ["action", "needs_review", "outcome", "risk", "urgency"], "classes": {"action": ["continue", "human_review", "observe", "stop"], "needs_review": ["false", "true"], "outcome": ["failure", "harmful", "partial", "success"], "risk": ["0", "1", "2", "3"], "urgency": ["0", "1", "2", "3"]}}
